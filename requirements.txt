@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+Pillow
+readability-lxml
+trafilatura
